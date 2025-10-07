@@ -1,0 +1,25 @@
+{
+  "name": "Solent Go - Day Pass",
+  "short_name": "SolentGo",
+  "description": "Day Pass viewer — offline-capable PWA for the ticket UI",
+  "start_url": "/Suucess_Modified_RedStayLonger_WaveSlower.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c1c59",
+  "theme_color": "#0c1c59",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
